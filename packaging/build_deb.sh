@@ -49,7 +49,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libgl1, libegl1, libfontconfig1, libxkbcommon0, libdbus-1-3
-Homepage: https://github.com/andrejristic/pse-linear-a
+Homepage: https://github.com/zeravatechnologies/andrej-pse-linear-a
 Description: PSE Linear A - decipherment swarm
  A Partial Self-Extension swarm that gathers evidence about the undeciphered
  Minoan script Linear A, with Linear B as the deciphered anchor, and works to

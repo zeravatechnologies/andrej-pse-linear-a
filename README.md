@@ -59,3 +59,9 @@ python3 -m pse_linear_a.calibration.experiments   # just the calibration gate
 ```bash
 bash packaging/build_deb.sh 0.1.0     # on a Debian/Ubuntu box (needs dpkg-deb)
 ```
+
+## Author
+
+Created by **Andrej Ristić**, [Zerava Technologies Inc.](https://www.zeravatech.ca), Toronto.
+
+Source: <https://github.com/zeravatechnologies/andrej-pse-linear-a>
